@@ -1,0 +1,44 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Frontend
+node_modules/
+.next/
+out/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Test and coverage
+.coverage
+htmlcov/
+
+# Local databases and backups
+*.db
+*.sqlite3
+*.bak
+
+# Build artifacts
+build/
