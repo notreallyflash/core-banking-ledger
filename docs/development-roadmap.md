@@ -360,3 +360,4 @@ This project is not intended to demonstrate the largest possible technology stac
 It is intended to demonstrate that a relatively focused system can solve a difficult engineering problem correctly.
 
 The priority is to build a reliable financial core, validate its behavior under failure and concurrency, and then expose it through a clean application interface.
+

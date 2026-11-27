@@ -212,3 +212,4 @@ The initial version will not use:
 - External payment integrations.
 
 These technologies and capabilities may be evaluated in future versions if justified by actual requirements.
+

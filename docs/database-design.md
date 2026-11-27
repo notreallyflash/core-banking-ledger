@@ -523,3 +523,4 @@ The initial version will not include:
 
 The priority is to implement a correct and testable single-currency double-entry ledger before introducing additional banking features.
 
+
